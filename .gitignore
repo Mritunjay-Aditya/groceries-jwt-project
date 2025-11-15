@@ -1,0 +1,30 @@
+# Maven build
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+application.properties
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Spring Boot
+*.jar
+*.war
+*.ear
+
+# Others
+*.swp
